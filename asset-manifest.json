@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/menu-practice2/static/css/main.6fec4e17.css",
+    "main.js": "/menu-practice2/static/js/main.0580f245.js",
+    "index.html": "/menu-practice2/index.html",
+    "main.6fec4e17.css.map": "/menu-practice2/static/css/main.6fec4e17.css.map",
+    "main.0580f245.js.map": "/menu-practice2/static/js/main.0580f245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fec4e17.css",
+    "static/js/main.0580f245.js"
+  ]
+}
